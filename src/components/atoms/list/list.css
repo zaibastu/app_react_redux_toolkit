@@ -1,0 +1,7 @@
+.wrapper-list{
+    display: flex;
+    width: 15rem;
+    height: 3rem;
+    background-color: lawngreen;
+    position: relative;
+}

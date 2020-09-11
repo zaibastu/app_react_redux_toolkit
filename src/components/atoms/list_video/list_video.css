@@ -1,0 +1,12 @@
+.wrapper{
+display: flex;
+}
+
+.wrapper-element{
+flex-direction: column;
+width: 50%;
+height: 3rem;
+margin-top: 2rem;
+
+}
+

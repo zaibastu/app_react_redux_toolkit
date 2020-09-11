@@ -1,0 +1,30 @@
+.test {
+    background-color: khaki;
+    width: 10rem;
+    height: 1.5rem;
+    flex-flow: row;
+    padding-right: 10px;
+
+}
+.wrapper {
+    padding: 10px;
+    display: flex;
+    
+  }
+  .form-row-label {
+    padding-right: 10px;
+    flex-flow: row;
+  }
+  .form-row-input {
+    flex:1;
+    padding-right: 10px;
+    flex-flow: row;
+    
+  }
+  .form-row-input-password {
+    flex:2;
+    padding-right: 10px;
+    flex-flow: row;
+    margin-left: 0.5rem;
+    
+  }

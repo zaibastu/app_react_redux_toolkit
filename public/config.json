@@ -1,0 +1,37 @@
+{
+	"videoList": [{
+			"title": "Streaming 1",
+			"value":  "https://www.youtube.com/watch?v=AsqQROb6YfQ"
+		},
+		{
+			"title": "Streaming 2",
+			"value":  "https://www.youtube.com/watch?v=4SbJCgUa9pQ"
+		},
+		{
+			"title": "Streaming 3",
+			"value":  "https://www.youtube.com/watch?v=DRMg1gmE1jE"
+		}
+	],
+	"courses":[{
+			"course":"Spinning",
+			"trainer":"Mario"
+		},
+		{
+			"course":"Boxe",
+			"trainer":"Giuseppe"
+		},
+		{
+			"course":"Judo",
+			"trainer":"Carmine"
+		}
+	],
+	"trainer":[{"id":0,"name":"Mario"},{"id":1,"name":"Giuseppe"},{"id":2,"name":"Carmine"}],
+	"setTime": {
+        "value":{
+            "timeout": 10000,
+            "baseline": true
+
+        }
+
+    } 
+}

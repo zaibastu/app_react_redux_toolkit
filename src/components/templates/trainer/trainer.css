@@ -1,0 +1,47 @@
+.trainer-wrapper {
+  display: flex;
+  flex-direction: row;
+    height: 5rem;
+    width: 100%;
+    margin-left: 5rem;
+    position: relative;
+    margin-top: 6rem;
+
+}
+
+.trainer-logo{
+    -webkit-clip-path: circle(100% at 100% 100%);
+    clip-path: circle(100% at 100% 100%);
+    height: 5rem;
+    width: 5rem;
+    
+}
+
+.trainer-side-bar {
+  background: #e7eef1;
+  padding: 40px 40px 60px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  box-shadow: 0 12px 0 -6px black;
+  position: fixed;
+  right: 5%;
+  width: 36%;
+  float: right;
+}
+.trainer-side-bar-header{
+  background:yellow;
+  line-height: 3rem;
+  display: block;
+  box-sizing: border-box ;
+  
+}
+
+.calendar-wrapper{
+margin-top: 15rem;
+
+}
+
+.list-wrapper{
+  margin-top:35rem;
+  margin-left:-40rem;
+}
