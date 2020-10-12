@@ -8,7 +8,7 @@ const Element = ({value,index}) =>{
             }
 
 return (
-        <div className='wrapper' >
+        <div >
             <input className='test' type="text" value={text} onChange={onChange} />
         </div>
     );
