@@ -15,8 +15,8 @@ const Trainer = () => {
                 <div className='trainer-side-bar-header'>
                     <p>Info Personali</p>
                     <Counter />
+                    <List />
                 </div>
-                <List />
             </div>
             <div className='calendar-wrapper'>
                 <Calendar />

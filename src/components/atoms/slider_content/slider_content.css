@@ -1,21 +1,12 @@
-.wrapper{
-    display: block;
-  width: 230px;
-  height: 230px;
-  position: absolute;
-  top: 0em;
-  right: 0em;
-  text-align: right;
-  margin: 5px 10px 0 0;
-  opacity: 1;
-  line-height: normal;
-  overflow: hidden;
- -webkit-transition: all 0.5s ease-in-out;
--moz-transition: all 0.5s ease-in-out;
-  -ms-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
-    
+.slide{
+min-width: 50rem;
+height: 25rem;
+transition:0.5s;
+overflow: hidden;
 }
 
-
+.images{
+  width: 50rem;
+  height: 25rem;
+  
+}
